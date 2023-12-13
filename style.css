@@ -1,3 +1,16 @@
+head {
+    background-color: rgb(2, 189, 251);
+    color: rgb(236, 7, 7);
+    padding: 10px;
+}
+
+/* Add styles for the p element */
+
 p {
     color: red;
+    font-size: 18px; /* You can adjust the font size as needed */
+}
+p1 {
+    color: rgb(7, 198, 246);
+    font-size: 180px; /* You can adjust the font size as needed */
 }
